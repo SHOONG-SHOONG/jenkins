@@ -7,3 +7,4 @@ jenkins test -- pipeline 수정 </br>
 jenkins test -- 젠킨스 재설치  </br>
 jenkins test -- Docker CLI 설치  </br>
 jenkins test -- Harbor credential 등록  </br>
+jenkins test -- Deamon  </br>
